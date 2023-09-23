@@ -1,0 +1,15 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "com.example.credentialmanager",
+      "sha256_cert_fingerprints" : [
+        "47:A2:3E:04:58:79:57:C1:C8:F3:F6:4F:83:CD:7C:14:79:A1:1F:F7"
+      ]
+    }
+  }
+]
